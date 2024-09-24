@@ -2,22 +2,50 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
 }
 
 .header-logo {
     margin-left: 20px;
 }
 
-
-.menu-item a{
+.menu-item a {
     text-decoration: none;
-    font-size: 24px;
-    margin-right: 20px;
+    font-size: 18px;
+    margin-right: 10px;
     color: blue;
 }
 
 .menu-item {
     list-style: none;
     display: inline-block;
-    padding: 10px;
+    padding: 5px;
+}
+
+.hamburger-menu {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .site-menu {
+        display: none;
+    }
+
+    .hamburger-menu {
+        display: block;
+    }
+
+    .header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+.menu-group {
+    padding: 0;
+    margin: 0;
 }
