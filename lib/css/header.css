@@ -2,22 +2,31 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
+    padding: 0 20px; /* 余白を調整 */
+    box-sizing: border-box; /* パディングを含めた幅の計算 */
 }
 
-.header-logo {
-    margin-left: 20px;
-}
-
-
-.menu-item a{
+.menu-item a {
     text-decoration: none;
-    font-size: 24px;
-    margin-right: 20px;
+    font-size: 18px; /* フォントサイズを少し小さく */
+    margin-right: 10px; /* マージンを調整 */
     color: blue;
 }
 
 .menu-item {
     list-style: none;
     display: inline-block;
-    padding: 10px;
+    padding: 5px; /* パディングを調整 */
+}
+
+@media (max-width: 768px) {
+    .header-inner {
+        flex-direction: column; /* 小さい画面では縦に並べる */
+        align-items: flex-start;
+    }
+
+    .menu-item a {
+        font-size: 16px;
+    }
 }
