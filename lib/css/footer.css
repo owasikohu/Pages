@@ -10,4 +10,6 @@
 #copyright {
     font-size: 12px;
     color: chartreuse;
+    display: block; /* block要素にすることでマージンが有効になります */
+    margin-bottom: 20px; /* 下に20pxの隙間をあける */
 }
