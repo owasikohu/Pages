@@ -1,5 +1,5 @@
 #footer {
-    margin-bottom: 12px;
+    margin-bottom: 50px;
     text-align: center;
     width: 100%;
     position: fixed;
@@ -10,5 +10,4 @@
 #copyright {
     font-size: 12px;
     color: chartreuse;
-    margin: 20px;
 }
