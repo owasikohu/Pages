@@ -4,7 +4,7 @@
 まだサイトは発展途上なので、表示が乱れるかもしれません。
 
 ## 変更履歴
-2024/9/25 技術的な問題によりpage.owasikohu.comからweb.owasikohu.com
+2024/9/25 技術的な問題によりpage.owasikohu.comからweb.owasikohu.com変更
 
 2024/9/24 javascriptをなるべく使用しない実装に変更
 
