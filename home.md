@@ -6,7 +6,9 @@
 astroでこのサイトを再度構築するかも
 
 ## 変更履歴
-2024/9/25 技術的な問題によりpage.owasikohu.comからweb.owasikohu.com変更
+2024/9/25 目標だったすべてのサイトを設置
+
+2024/9/25 技術的な問題によりpage.owasikohu.comからweb.owasikohu.comに変更
 
 2024/9/24 javascriptをなるべく使用しない実装に変更
 
