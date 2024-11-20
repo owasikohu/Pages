@@ -4,7 +4,7 @@
 
 ## narcissu for psp
 
-<img width="480" src="https://ia800505.us.archive.org/10/items/narcissu-for-psp_20230904_0718/20230903_005852.jpg">
+<img width="480" src="./narcissu.jpg">
 
 narcissuのPSP移植版 CFW(LME)にて動作確認済み
 
