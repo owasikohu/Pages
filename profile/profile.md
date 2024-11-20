@@ -20,7 +20,7 @@
 
 [misskey.io](https://misskey.io/@owasikov)
 
-[bluesky])(https://bsky.app/profile/owasikohu.bsky.social)
+[bluesky](https://bsky.app/profile/owasikohu.bsky.social)
 
 [reddit](https://www.reddit.com/user/owasikohu/)
 
