@@ -33,7 +33,7 @@ function md2html (md,filename) {
     <title>owasikohu.com - ${name}</title>
     </head>
     <body>
-    <header id="header"><div class="header-inner"><a class="header-logo" href="https://web.owasikohu.com/"><img src="https://web.owasikohu.com/lib/img/logo.png" width="200" height="50"></a><div class="header-site-menu"><nav class="site-menu"><ul class="menu-group"><li class="menu-item"><a href="https://web.owasikohu.com/profile">/profile</a></li><li class="menu-item"><a href="https://web.owasikohu.com/blog">/blog</a></li><li class="menu-item"><a href="https://web.owasikohu.com/projects">/projects</a></li><li class="menu-item"><a href="https://web.owasikohu.com/webring">/webring</a></li><li class="menu-item"><a href="https://web.owasikohu.com/misc">/misc</a></li></ul></nav></div></div><hr></header>
+    <header id="header"><div class="header-inner"><a class="header-logo" href="https://web.owasikohu.com/"><img src="https://web.owasikohu.com/lib/img/logo.png" width="200" height="50"></a><div class="header-site-menu"><nav class="site-menu"><ul class="menu-group"><li class="menu-item"><a href="https://web.owasikohu.com/profile">/profile</a></li><li class="menu-item"><a href="https://web.owasikohu.com/blog">/blog</a></li><li class="menu-item"><a href="https://web.owasikohu.com/webring">/webring</a></li><li class="menu-item"><a href="https://web.owasikohu.com/misc">/misc</a></li></ul></nav></div></div><hr></header>
     ${html}
     <footer id="footer"><hr><span id="copyright">Copyright (C) 2024 owasikohu. Some rights reserved.</span></footer>
     </body>
